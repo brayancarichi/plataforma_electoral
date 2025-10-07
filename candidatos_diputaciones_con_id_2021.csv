@@ -1,0 +1,220 @@
+candidato_id,anno,nombre_candidato,numero_de_votos,distrito,PARTIDO_CI
+DIP-00001-dac33f2185ea4a378ab5653a53aed739,2021,Luis Alberto Susarrey Flores,"56,378",18. San Pedro Garza García,Partido Accion Nacional
+DIP-00002-e90df981876b44e1bdb8e5ed4e8019c3,2021,Laura Esther Cantu Martinez,929,18. San Pedro Garza García,Partido Verde Ecologista de Mexico
+DIP-00003-f451e05d3c7e4ed1ab276adf446319b8,2021,Veronica Lieja Fuentes,553,18. San Pedro Garza García,Partido del Trabajo
+DIP-00004-b101d84469a44bc19980cec2f6f9bce6,2021,Ximena Peredo Rodriguez,"15,144",18. San Pedro Garza García,Movimiento Ciudadano
+DIP-00005-0cb0ca1a0f884c4a8da0ae0a6e31cd38,2021,Maria Argentina Montalvo Cervantes,"6,710",18. San Pedro Garza García,MORENA
+DIP-00006-09638a239ccd4974afcfd1f7f09c417a,2021,J. Marcos Florentino Almazan Paz,"1,210",18. San Pedro Garza García,Partido Nueva Alianza Nuevo Leon
+DIP-00007-d7fd214623754dc1939a43fd132734bf,2021,ELIZABETH MENDOZA GUTIERREZ,309,18. San Pedro Garza García,Partido Encuentro Solidario
+DIP-00008-20c4a5f534ef4117a11f242d9faf20a3,2021,Nancy Daniela Alanis Villarreal,248,18. San Pedro Garza García,Redes Sociales Progresistas
+DIP-00009-3e1a5d90a003491f961005262fd72cbd,2021,Eduardo Alonso Mendivil,803,18. San Pedro Garza García,Fuerza por Mexico
+DIP-00010-fc4fda92e25349bfb4499ac83ecc42fb,2021,Adrian Gerardo Garza Chavarria,"13,077",18. San Pedro Garza García,Va Fuerte por Nuevo Leon
+DIP-00011-f980689283ad4c90a34b37d0d178999c,2021,Amyleth Palacios Medina,"1,737",18. San Pedro Garza García,CANDIDATURA INDEPENDIENTE 1
+DIP-00012-120851cb79054349a8d6f3b1e2318b3b,2021,Lidia Margarita Estrada Flores,"12,813",16. Apodaca,Partido Accion Nacional
+DIP-00013-b0dd7cde963b495e86b409c39a16938d,2021,Juan Antonio Cantu Flores,"13,771",16. Apodaca,Movimiento Ciudadano
+DIP-00014-eeffcd4e66f1474cb6b04ebfbece98ee,2021,Blanca Esthela Prado Guerrero,597,16. Apodaca,Partido Encuentro Solidario
+DIP-00015-6e7baeb606c64199bf861a13c32e1b68,2021,Luis Gerardo Chavez Cazares,326,16. Apodaca,Redes Sociales Progresistas
+DIP-00016-66631fea8df44661a35d5dd8858a5f76,2021,Carlos Alberto Garza Treviño,489,16. Apodaca,Fuerza por Mexico
+DIP-00017-4b54761ffcd34eda87e1a50538a88906,2021,Elsa Escobedo Vazquez,"27,430",16. Apodaca,Va Fuerte por Nuevo Leon
+DIP-00018-651c91593f2b47dfafe4fbfc82946ed6,2021,Ramiro Roberto Gonzalez Gutierrez,"14,193",16. Apodaca,Juntos Haremos Historia en Nuevo Leon
+DIP-00019-339cf8fd5ac2448796f251d0eb27f867,2021,Gilberto De Jesus Gomez Reyes,"21,646",12. Guadalupe,Partido Accion Nacional
+DIP-00020-91fe04c9aa6b4b0fa37d8f879280e5b3,2021,Jose Carlos Ramirez Segovia,955,12. Guadalupe,Partido Verde Ecologista de Mexico
+DIP-00021-3e1cb50a9ad242e39244263abc6c2d54,2021,Joel Aaron Del Bosque Medellin,859,12. Guadalupe,Partido del Trabajo
+DIP-00022-2e383d713d864320a2034c3ea3f64028,2021,Iliana Marlenne Valdez Esparza,"14,852",12. Guadalupe,Movimiento Ciudadano
+DIP-00023-9449330a998742d39b93f3a9a1c89725,2021,Angel Alberto Barroso Correa,"10,396",12. Guadalupe,MORENA
+DIP-00024-1899964283bc47e1bcd13979544b8472,2021,Olga Elizabeth Martinez Treviño,771,12. Guadalupe,Partido Nueva Alianza Nuevo Leon
+DIP-00025-8dca7978549d4dd2a454090a545a6a87,2021,KARLA JOANA MAGALLANES CABALLERO,539,12. Guadalupe,Partido Encuentro Solidario
+DIP-00026-cf34b996ef414beba1a9d7525e8398b0,2021,Arturo Benavides Castillo,878,12. Guadalupe,Redes Sociales Progresistas
+DIP-00027-7198a11ad3c34a85986d6ffcbf78b581,2021,Sergio Salcido Heredia,343,12. Guadalupe,Fuerza por Mexico
+DIP-00028-bcdbff1dce164ce7a82a74cb984694a0,2021,Ma. Guadalupe Garza Flores,"20,547",12. Guadalupe,Va Fuerte por Nuevo Leon
+DIP-00029-0ea815b80fc8481092ff0b098798c522,2021,Daniel Dario Perez Cavazos,"1,861",12. Guadalupe,CANDIDATURA INDEPENDIENTE 1
+DIP-00030-7838e615ffa34b718b58c7fc3963ea7b,2021,Carlos Alberto De La Fuente Flores,"32,177",11. San Nicolás de los Garza,Partido Accion Nacional
+DIP-00031-d49dc4bc0dd04bb9ac2ebe63712bee12,2021,Brenda Osnaya Alvarez,"14,117",11. San Nicolás de los Garza,Movimiento Ciudadano
+DIP-00032-e5c1354644a146df8c1522c4caace1f6,2021,Norma Idalia Vargas Ortega,278,11. San Nicolás de los Garza,Redes Sociales Progresistas
+DIP-00033-dd0c4887f7ff45e89fa36e7adc3fbd2e,2021,Lidia Reyna Rodriguez,594,11. San Nicolás de los Garza,Fuerza por Mexico
+DIP-00034-ad884c93107640d2ad433a1184e5bb9b,2021,Jose Fernando Lozano Llamas,"18,573",11. San Nicolás de los Garza,Va Fuerte por Nuevo Leon
+DIP-00035-0eaeac6af9294a2db9ec8d0352952276,2021,Thelma Aracely Flores Rodriguez,"14,003",11. San Nicolás de los Garza,Juntos Haremos Historia en Nuevo Leon
+DIP-00036-836e17d6330c4f7ca5d013790f1203c2,2021,Itzel Soledad Castillo Almanza,"21,641",15. Guadalupe,Partido Accion Nacional
+DIP-00037-d2973247acb84482b4dfb94af46ab50c,2021,Blanca Nathaly Vera Grimaldo,"3,564",15. Guadalupe,Partido Verde Ecologista de Mexico
+DIP-00038-a6fce6172e714355859dae853ce7d6be,2021,Cesar Raymundo Villarreal Cantu,"1,199",15. Guadalupe,Partido del Trabajo
+DIP-00039-01ae5dc1c71e496fae2f0a3abaf85dda,2021,Fernando Garza Rodriguez,"15,682",15. Guadalupe,Movimiento Ciudadano
+DIP-00040-42ed6e33fd6243b78409c2bb3eae8efe,2021,Andrea De Jesus Chapa Jimenez,"12,330",15. Guadalupe,MORENA
+DIP-00041-b53d3e04834e4e41b90e8c955ec60bec,2021,ITZEL EVANGELINA PALOMO SALINAS,"1,218",15. Guadalupe,Partido Nueva Alianza Nuevo Leon
+DIP-00042-56c1512f5507459fb9f716ae41605ab3,2021,BRAIAN LEONARDO SANDOVAL GATICA,588,15. Guadalupe,Partido Encuentro Solidario
+DIP-00043-816e03be43df4401a69b9153d1bc1602,2021,Jesus Alberto Silva Martinez,664,15. Guadalupe,Redes Sociales Progresistas
+DIP-00044-78e0ebfad672405dad14bde68a3f8177,2021,Mayra Selene Fabela Sanchez,607,15. Guadalupe,Fuerza por Mexico
+DIP-00045-c69c0c29854047a1b79fe0a2a29dea35,2021,Jorge Torres Alanis,"19,965",15. Guadalupe,Va Fuerte por Nuevo Leon
+DIP-00046-9fe40103bb8a4038998841bfc4eac8df,2021,Felix Rocha Esquivel,"17,792",14. Guadalupe,Partido Accion Nacional
+DIP-00047-a7833960f86f4452abbbb5e1001e2f0a,2021,Adriana Belinda Quiroz Gallegos,"2,051",14. Guadalupe,Partido Verde Ecologista de Mexico
+DIP-00048-0e16a7dc738547f1b89a3378824558ba,2021,Veronica Granados Cantu,872,14. Guadalupe,Partido del Trabajo
+DIP-00049-7f0c115e4b4242e58de47310e81809b5,2021,Maria Mayela Chapa Treviño,"15,123",14. Guadalupe,Movimiento Ciudadano
+DIP-00050-3a03ebe3e5e04326aceeaeb8c8ea26e1,2021,Jessica Elodia Martinez Martinez,"10,498",14. Guadalupe,MORENA
+DIP-00051-ec145f580bfe474089b059b7e07db6e6,2021,Edgar Jesus Munguia Frutos,937,14. Guadalupe,Partido Nueva Alianza Nuevo Leon
+DIP-00052-458cb12b73734ed49155a71bee53cf73,2021,Blanca Delia Zavala Hernandez,559,14. Guadalupe,Redes Sociales Progresistas
+DIP-00053-b27342e7000a45f9ab0d5868b85e96a7,2021,Melissa Judith Banda Benitez,721,14. Guadalupe,Fuerza por Mexico
+DIP-00054-8547d27f07b6475885b1f351643a71c1,2021,Jose Torres Duron,"16,666",14. Guadalupe,Va Fuerte por Nuevo Leon
+DIP-00055-4d2ef13641f54c07aa431e031c44fcf7,2021,Imelda De Los Angeles Gonzalez Eguia,"15,255",25. Gral. Escobedo,Partido Accion Nacional
+DIP-00056-428646d7308c4365a4baf2304b4ba057,2021,Fernando Hurtado Garcia,"15,844",25. Gral. Escobedo,Movimiento Ciudadano
+DIP-00057-ae7ad8302382445685d13986a4e7ca42,2021,Maria Guadalupe Castillo Castro,509,25. Gral. Escobedo,Partido Encuentro Solidario
+DIP-00058-9803189c64b4475f9d6d2be88c5d8df9,2021,Gabriela Adelina Olvera Ruiz,804,25. Gral. Escobedo,Redes Sociales Progresistas
+DIP-00059-9fd5a3be89fc471f963fad143d0e406e,2021,Tomas Francisco Castillo Moreno,491,25. Gral. Escobedo,Fuerza por Mexico
+DIP-00060-c0a3851b891a43be85cb6cbee301c23a,2021,Maria De Los Angeles Martinez Galindo,"13,005",25. Gral. Escobedo,Va Fuerte por Nuevo Leon
+DIP-00061-a071dab55c7b482ba3b9a3178e00a798,2021,Maria Del Consuelo Galvez Contreras,"16,582",25. Gral. Escobedo,Juntos Haremos Historia en Nuevo Leon
+DIP-00062-f8767ec244084c6eaff39996991ee761,2021,Daniel Omar Gonzalez Garza,"27,448",21. Sabinas Hidalgo,Partido Accion Nacional
+DIP-00063-66b6ea2f569442a2b429c225b1c84150,2021,Elida Villarreal Morales,"6,422",21. Sabinas Hidalgo,Partido Verde Ecologista de Mexico
+DIP-00064-a30a771703894c4c947056bb88f78969,2021,Conrado Martinez Montemayor,"3,660",21. Sabinas Hidalgo,Partido del Trabajo
+DIP-00065-4c03906f855742b28ed56afbb73105b2,2021,Armando Víctor Gutiérrez Canales,"22,574",21. Sabinas Hidalgo,Movimiento Ciudadano
+DIP-00066-87411b4cc9bc4f7fbaf6eaeaeec91276,2021,Javier Gonzalez Garcia,"12,996",21. Sabinas Hidalgo,MORENA
+DIP-00067-b2969ca13bf047f88684f6d9beb2338c,2021,Carlos Ramiro Reyes Castillo,727,21. Sabinas Hidalgo,Partido Nueva Alianza Nuevo Leon
+DIP-00068-e9e28af0c210499f8a0f6e15e4e66abc,2021,Ricardo Emmanuel Reyes Luna,"2,662",21. Sabinas Hidalgo,Redes Sociales Progresistas
+DIP-00069-da32374333c44b4fb93c4875718ab70d,2021,Luciano Alberto Gonzalez Juarez,"1,433",21. Sabinas Hidalgo,Fuerza por Mexico
+DIP-00070-2cad2a549fc34e8a88ba8abbc1f793f2,2021,Maria De La Luz Carolina Valadez Samano,"17,053",21. Sabinas Hidalgo,Va Fuerte por Nuevo Leon
+DIP-00071-2adce8142d274043b0ddf44f90db50de,2021,Oscar Alejandro Flores Escobar,"14,744",13. Guadalupe,Partido Accion Nacional
+DIP-00072-150133eaba8b405db4634a8c29b95c93,2021,Simon Pedro De La Rosa Hernandez,"1,275",13. Guadalupe,Partido Verde Ecologista de Mexico
+DIP-00073-9d9325ceba0047648ef79352af50d032,2021,Sonia Rodriguez Lara,857,13. Guadalupe,Partido del Trabajo
+DIP-00074-25a742bae30c4fe2bad3988b3d04842b,2021,Erika Margarita Mata Cazares,"14,502",13. Guadalupe,Movimiento Ciudadano
+DIP-00075-c345c1b9a19f4669b3de73c25b01f5f4,2021,Luis Armando Torres Hernandez,"11,184",13. Guadalupe,MORENA
+DIP-00076-37fe432076b8466499ebe48c68fc8079,2021,Julio Cesar Bustillos Garza,939,13. Guadalupe,Partido Nueva Alianza Nuevo Leon
+DIP-00077-ca0a3df39766476aba64a39dae4cdde5,2021,Octavio Martinez De La Paz,407,13. Guadalupe,Redes Sociales Progresistas
+DIP-00078-2e27bf5dc5614a29895b2b3e29935126,2021,Araceli Nava Rivera,761,13. Guadalupe,Fuerza por Mexico
+DIP-00079-4b3951b779664753bb3758bf391a95db,2021,Hector Garcia Garcia,"20,543",13. Guadalupe,Va Fuerte por Nuevo Leon
+DIP-00080-9bf6baddaa5449fc839bab2d1c67cdb5,2021,Mauro Guerra Villarreal,"37,040",10. San Nicolás de los Garza,Partido Accion Nacional
+DIP-00081-f4a721a97f6d4fe882533d81dc4c8667,2021,Luis Carlos Ordaz Reyes,"1,431",10. San Nicolás de los Garza,Partido Verde Ecologista de Mexico
+DIP-00082-671ea53a28a041d2b4f816709ab7e1ac,2021,Rebeca Alicia Treviño Velazquez,"1,320",10. San Nicolás de los Garza,Partido del Trabajo
+DIP-00083-641d5243024547c381cd504c7a89a30e,2021,Jorge Luis Hinojosa Ruiz,"16,252",10. San Nicolás de los Garza,Movimiento Ciudadano
+DIP-00084-8977b333b66146c3a8023348c2ca7f48,2021,Denisse Edith Morales Tudon,"11,226",10. San Nicolás de los Garza,MORENA
+DIP-00085-682fb96e10a44b78814c02be7307c5c5,2021,Juan Jose Martinez Vigil,"1,400",10. San Nicolás de los Garza,Partido Nueva Alianza Nuevo Leon
+DIP-00086-255bc2a78886423490626d3b40404808,2021,Judith Alejandra Luz Maria Gallegos Mendoza,637,10. San Nicolás de los Garza,Redes Sociales Progresistas
+DIP-00087-0e490b6c0ce64b508c5860c86523135e,2021,Luis Gabriel Ochoa Legorreta,646,10. San Nicolás de los Garza,Fuerza por Mexico
+DIP-00088-32bc3deabe664e64ab9653e68be1d73b,2021,Sofia Galvan Silva,"9,159",10. San Nicolás de los Garza,Va Fuerte por Nuevo Leon
+DIP-00089-0d74ed5f79bd43a6931d8af21d5e0961,2021,Roberto Carlos Farias Garcia,"35,197",19. Santa Catarina,Partido Accion Nacional
+DIP-00090-1f338d66ff5743d886571289615d8057,2021,Ana Isabel Noriega Martinez,"1,475",19. Santa Catarina,Partido Verde Ecologista de Mexico
+DIP-00091-3593ccbd21ed4ab4ac38e4f11e83e407,2021,Juan Augusto Castillejos Ramirez,678,19. Santa Catarina,Partido del Trabajo
+DIP-00092-04d822f8cc324534982fb3621b6e20cd,2021,Elvira Janeth Balderas Hernandez,"15,651",19. Santa Catarina,Movimiento Ciudadano
+DIP-00093-9d2f10446b16438cabac91eee4c46ede,2021,Mario Alejandro Soto Esquer,"10,749",19. Santa Catarina,MORENA
+DIP-00094-03f41636be15494e825996d8b63e8f05,2021,Tania Jimenez Molina,"1,502",19. Santa Catarina,Partido Nueva Alianza Nuevo Leon
+DIP-00095-7462cb130b4a4f7dafa635357ffc59c8,2021,Juan Pablo Carvajal Sanchez,492,19. Santa Catarina,Partido Encuentro Solidario
+DIP-00096-b243d106c3314176b918ad9c49fd691e,2021,Adan Sergio Garcia Castillo,"2,554",19. Santa Catarina,Redes Sociales Progresistas
+DIP-00097-1c489e4337d946ba9275d7cdbe0307d2,2021,Hernan Camarillo Aguilar,"1,511",19. Santa Catarina,Fuerza por Mexico
+DIP-00098-7ba8fc5c93c14e749a216162b97ec3c4,2021,Katia Estefania Cepeda Ayala,"8,397",19. Santa Catarina,Va Fuerte por Nuevo Leon
+DIP-00099-6ed20b39a6c04a15a5892316dcf7f4a2,2021,Eduardo Leal Buenfil,"39,250",26. Santiago,Partido Accion Nacional
+DIP-00100-502c11dd56174e8babf0886def3f619d,2021,Hiram Eliud Bernal Perez,"3,647",26. Santiago,Movimiento Ciudadano
+DIP-00101-e14ee3912e7348ecbce40b42df6a071c,2021,Joaquin Torres Mata,755,26. Santiago,Redes Sociales Progresistas
+DIP-00102-8eb18da4799b4173b8f722c8b5399d8d,2021,Leida Mayela Aguirre Garcia,264,26. Santiago,Fuerza por Mexico
+DIP-00103-c473a24ab9124e51b82d079f3a53cd3d,2021,Javier Caballero Gaona,"40,524",26. Santiago,Va Fuerte por Nuevo Leon
+DIP-00104-134f516e78784e68b8af31ae1195a6c4,2021,Patricia Monica Marroquin Sanchez,"17,892",26. Santiago,Juntos Haremos Historia en Nuevo Leon
+DIP-00105-66676fc924ec44049cdabdaa678ec641,2021,Nancy Aracely Olguin Diaz,"37,475",9. San Nicolás de los Garza,Partido Accion Nacional
+DIP-00106-439ede41d90f4603a7bffba1b7e99da6,2021,Norma Leticia Cantu Hernandez,"1,247",9. San Nicolás de los Garza,Partido Verde Ecologista de Mexico
+DIP-00107-07436aed7aea47b080400f9f31acfb42,2021,Mariana Alejandra Garza Sepulveda,"1,076",9. San Nicolás de los Garza,Partido del Trabajo
+DIP-00108-c829520e6bf442379feead524952be14,2021,Jose Arcadio Zendejas Espinosa,"15,421",9. San Nicolás de los Garza,Movimiento Ciudadano
+DIP-00109-1cedfeb63b414918964b7eb765a987f0,2021,Beatriz Soledad De Leon Martinez,"11,746",9. San Nicolás de los Garza,MORENA
+DIP-00110-a384ca15957d45d9928f4bdc155f6834,2021,Guadalupe Treviño Medrano,771,9. San Nicolás de los Garza,Partido Nueva Alianza Nuevo Leon
+DIP-00111-8395ed2b70324c1ea26f6d5d74c3be19,2021,Jose Fidel Rivera Guerra,395,9. San Nicolás de los Garza,Redes Sociales Progresistas
+DIP-00112-0b66bf2c69664f87bfa2891a84b7f469,2021,Jesus Alejandro Ornelas Flores,543,9. San Nicolás de los Garza,Fuerza por Mexico
+DIP-00113-ec1b2ea2b35c4e09a4a47e56156193fb,2021,Mireya Vera Garcia,"8,686",9. San Nicolás de los Garza,Va Fuerte por Nuevo Leon
+DIP-00114-4ae3da47c47f47da818df187e0ab5a8b,2021,Rene Alberto Villarreal Ramos,"14,623",5. Apodaca,Partido Accion Nacional
+DIP-00115-4145d0269bf44be2a3096b1db85f02a5,2021,Jesús Rodrigo García Villarreal,"15,868",5. Apodaca,Movimiento Ciudadano
+DIP-00116-30399614027043d785be6f74d6067e04,2021,Erika Margarita Ruiz Ruiz,698,5. Apodaca,Partido Encuentro Solidario
+DIP-00117-9bb7e59fd83c4bf18c60556157dc7be2,2021,Brenda Elizabeth Santos Martinez,461,5. Apodaca,Redes Sociales Progresistas
+DIP-00118-dd36c8f65d5342b48cd723fecb603a8f,2021,Cuauhtemoc Gutierrez Basulto,505,5. Apodaca,Fuerza por Mexico
+DIP-00119-67cd98f6a45e4412a85e680fdc735c14,2021,Gabriela Govea Lopez,"36,054",5. Apodaca,Va Fuerte por Nuevo Leon
+DIP-00120-dc2ce920b93348d594270d77a387b277,2021,Julia Espinosa De Los Monteros Zapata,"16,017",5. Apodaca,Juntos Haremos Historia en Nuevo Leon
+DIP-00121-2d4f62c0917547a7b81aff445aebe160,2021,Alma Lucy Reyna Arellano,544,5. Apodaca,CANDIDATURA INDEPENDIENTE 1
+DIP-00122-378b569f144e4939bdd29715527daa56,2021,Cecilia Sofia Robledo Suarez,"28,118",4. Monterrey,Partido Accion Nacional
+DIP-00123-91bb1bbd594b4a2b837ca6457f4d0acd,2021,Juan Carlos Leal Segovia,"1,157",4. Monterrey,Partido Verde Ecologista de Mexico
+DIP-00124-a7ec519967944adfa29cde426836a75a,2021,Juana Parra Hernandez,865,4. Monterrey,Partido del Trabajo
+DIP-00125-533aa0f587de4233ad88ad1ed1d66520,2021,Irais Virginia Reyes De La Torre,"22,371",4. Monterrey,Movimiento Ciudadano
+DIP-00126-676fc18977984c25a8b7a025b9341c5b,2021,Marco Antonio Garcia Villarreal,"8,841",4. Monterrey,MORENA
+DIP-00127-89486e4f52354a3c88cd74702afe42d8,2021,Jorge Alan Blanco Duran,758,4. Monterrey,Partido Nueva Alianza Nuevo Leon
+DIP-00128-b38103967cd148209551ce218650b5fe,2021,Ernesto Vargas Contreras,"1,288",4. Monterrey,Partido Encuentro Solidario
+DIP-00129-1a7b2812744d49d894271bc56c589f2c,2021,Marlen Diaz Villarreal,336,4. Monterrey,Redes Sociales Progresistas
+DIP-00130-b216c3a6cfe54bac969b937e3d6331c4,2021,Luis Alberto Caudillo Fernandez,424,4. Monterrey,Fuerza por Mexico
+DIP-00131-1ee167d7f0374583bb88692481d52d7d,2021,Perla De Los Angeles Villarreal Valdez,"29,494",4. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00132-325362e7fd134718b33e852c0258780a,2021,Kristian Andrés Macías Fernández,"1,168",4. Monterrey,CANDIDATURA INDEPENDIENTE 1
+DIP-00133-652b17b3487449399c27c4f3d6683106,2021,Myrna Isela Grimaldo Iracheta,"29,795",3. Monterrey,Partido Accion Nacional
+DIP-00134-40451491eee14500b30fabf02c98fc12,2021,Luz Maria Ortiz Quintos,"1,164",3. Monterrey,Partido Verde Ecologista de Mexico
+DIP-00135-cdd8034e113448758f0334746a24e36e,2021,Guillermo Cienfuegos Galindo,"1,949",3. Monterrey,Partido del Trabajo
+DIP-00136-07c94d2b63294c4b98f355b7ff2a9098,2021,Brenda Lizbeth Sanchez Castro,"22,483",3. Monterrey,Movimiento Ciudadano
+DIP-00137-d33aabe5140a41598acd0636cce2a5d8,2021,Elizabeth Del Carmen Duron Sanchez,"8,462",3. Monterrey,MORENA
+DIP-00138-fd37aed558634862b3f5d9890eec62b4,2021,Claudia Jazmin Salazar Grimaldo,658,3. Monterrey,Partido Nueva Alianza Nuevo Leon
+DIP-00139-0379073caa29402d9dea80492ba088b1,2021,Pedro Luis Pinal Niño,353,3. Monterrey,Partido Encuentro Solidario
+DIP-00140-c1a1aad768474559b8c6567a2c41651c,2021,Enrique Guadalupe Perez Villa,232,3. Monterrey,Redes Sociales Progresistas
+DIP-00141-9b86c0d46c094a619f02951d3323f107,2021,Isis Nayely Lara Chapa,450,3. Monterrey,Fuerza por Mexico
+DIP-00142-7c7667bd318e4a7ca1643f544cdd98e6,2021,Patricio Eugenio Zambrano De La Garza,"26,538",3. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00143-b2a8979be00b4fa8b6dcfb8a087110db,2021,Mariana Villasuso Tellez Giron,"1,777",3. Monterrey,CANDIDATURA INDEPENDIENTE 1
+DIP-00144-3d2ed042c7ea411dad8210e014acdb4d,2021,Luis Alfredo Garcia Garza,"12,782",22. Juárez,Partido Accion Nacional
+DIP-00145-86ae5282f1de48d1ac7968c44326ac55,2021,Juan Raúl Villegas Treviño,"17,759",22. Juárez,Movimiento Ciudadano
+DIP-00146-4756dbb14a8d4e749754d9be5c4679eb,2021,Lizeth Michel Davila Acuña,408,22. Juárez,Redes Sociales Progresistas
+DIP-00147-d0d668d5e9d749f58b97d6c1723e7cf1,2021,Guadalupe Janeth Hernandez Marcos,"1,130",22. Juárez,Fuerza por Mexico
+DIP-00148-5ccc678427834d3b95c9ae9758a439a0,2021,Julio Cesar Cantu Gonzalez,"22,399",22. Juárez,Va Fuerte por Nuevo Leon
+DIP-00149-a41a176805a34740989a4679fe3a0b10,2021,Delfina Beatriz De Los Santos Elizondo,"14,116",22. Juárez,Juntos Haremos Historia en Nuevo Leon
+DIP-00150-c113bb6cd30348fea6bcd0c81412e727,2021,Eduardo Flores Martinez,"10,346",7. Apodaca,Partido Accion Nacional
+DIP-00151-3885608d33c44b918ca2d8ce58bbcdb5,2021,Mayra Lizbeth Alvarado Alonso,"10,764",7. Apodaca,Movimiento Ciudadano
+DIP-00152-df6181fc4f0d45bfbd66de676b79ebeb,2021,Gabriel Alejandro Macias Diaz,423,7. Apodaca,Partido Encuentro Solidario
+DIP-00153-2a8fbe7ac7b0484b8d367a939a4c973e,2021,Miriam Lucerito Martinez Sepulveda,472,7. Apodaca,Redes Sociales Progresistas
+DIP-00154-3805add7784442c08edbe9fa263b52cb,2021,Raul Gomez Castillo,423,7. Apodaca,Fuerza por Mexico
+DIP-00155-38926f7e5ace4673951fad13c32fcbdf,2021,Jose Filiberto Flores Elizondo,"32,187",7. Apodaca,Va Fuerte por Nuevo Leon
+DIP-00156-59205f5d545f462eb7ec77392a4ca16c,2021,Victor Hugo Govea Jimenez,"12,192",7. Apodaca,Juntos Haremos Historia en Nuevo Leon
+DIP-00157-c5e8603db46a4ce9b1c158db5663c212,2021,Nicole Marie Saviñon Luttrell,"9,489",2. Monterrey,Partido Accion Nacional
+DIP-00158-d2f32eb008704cc5b59a551a0745b676,2021,Kenia Elizabeth Del Angel Mendoza,"15,314",2. Monterrey,Movimiento Ciudadano
+DIP-00159-88a1ffc3bb7442959a8218fba6382004,2021,Edgar Oziel Valero Zavala,430,2. Monterrey,Partido Encuentro Solidario
+DIP-00160-400046645a7b4986ba538608e2d6c223,2021,Ma Isabel Garza Navarro,371,2. Monterrey,Redes Sociales Progresistas
+DIP-00161-1e83e988f9fd430a8cd5fc39aeebee14,2021,Adriana Leticia Gonzalez Lopez,717,2. Monterrey,Fuerza por Mexico
+DIP-00162-f594cc49040548388e15ace3208dc518,2021,Ricardo Canavati Hadjopulos,"28,065",2. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00163-c61c98910bfb46e488c5408036f3ea84,2021,Asael Sepulveda Martinez,"15,427",2. Monterrey,Juntos Haremos Historia en Nuevo Leon
+DIP-00164-946212aa7cdc48c9a8215d0f0fae7121,2021,Cecilia Maricela De La Paz Ibarra,"23,202",23. Juárez,Partido Accion Nacional
+DIP-00165-2e397e929ae743a99e9b0429ea4758b8,2021,Martha Lidia Garza Mata,"13,659",23. Juárez,Movimiento Ciudadano
+DIP-00166-0f8cec0ca87c44fc833b621bdc864c42,2021,Claudia Josefina Garza Flores,867,23. Juárez,Partido Encuentro Solidario
+DIP-00167-0046b32b396249f19015bc69a41fdc64,2021,Antonio Pilar De Leon Garza,"1,526",23. Juárez,Redes Sociales Progresistas
+DIP-00168-362f6c27c849470ea63ea1a132fdd7f8,2021,MARIA LIRIO AGUILAR HERNANDEZ,"1,599",23. Juárez,Fuerza por Mexico
+DIP-00169-bb52d3b4820c449aafdbf3c7ca9981ea,2021,Eduardo Javier De La Garza Leal,"22,315",23. Juárez,Va Fuerte por Nuevo Leon
+DIP-00170-e1b6dc3ae4e84965be7007f3d77dbc7e,2021,Carlos Rafael Rodriguez Gomez,"31,694",23. Juárez,Juntos Haremos Historia en Nuevo Leon
+DIP-00171-a4959a8c5ea647f0b8867fb25b724851,2021,Karen Elizabeth Chavez Ramos,"23,811",20. García,Partido Accion Nacional
+DIP-00172-33169e96358047aab3b26a0262e0696b,2021,Jose Adrian Jauregui Hernandez,"22,575",20. García,Movimiento Ciudadano
+DIP-00173-0c5586ef6a2f44db9098a3c396f50310,2021,Laura Erika De Jesus Garza Gutierrez,"3,234",20. García,Partido Encuentro Solidario
+DIP-00174-8ab75e8ec90048fbb9cc5e4b3da8a800,2021,Martha Alicia Rodriguez Martinez,"1,389",20. García,Redes Sociales Progresistas
+DIP-00175-de6c6476427f43dd8097fb4c65ec9948,2021,Wendy Marisol Soltero Rodriguez,"2,727",20. García,Fuerza por Mexico
+DIP-00176-9d35ea3201af462c8c6ac8ec8f5df589,2021,Mario Alberto Rodriguez Platas,"16,059",20. García,Va Fuerte por Nuevo Leon
+DIP-00177-d2137a974c8d4113a4a3708ec68027e5,2021,Raul Lozano Caballero,"28,579",20. García,Juntos Haremos Historia en Nuevo Leon
+DIP-00178-48aad0737b694d5786c8419345c60367,2021,Adriana Paola Coronado Ramirez,"27,138",8. Monterrey,Partido Accion Nacional
+DIP-00179-8e624eb508d947e48bd8ff4246418f70,2021,Hector Troncoso Trejo,874,8. Monterrey,Partido Verde Ecologista de Mexico
+DIP-00180-f1053bcb5e3240ba9570d96f55ff2c66,2021,Juan Alberto Bazavilvazo Azua,732,8. Monterrey,Partido del Trabajo
+DIP-00181-98c5c23cdac44fe4a3bd53d8b94e182a,2021,Horacio Jonatan Tijerina Hernandez,"22,411",8. Monterrey,Movimiento Ciudadano
+DIP-00182-d8a3a038a69f4882b9ffd9d01d2e3f08,2021,Liliana Elizalde Chalita,"6,284",8. Monterrey,MORENA
+DIP-00183-6f15aeafada24f82ba9c5d9f57b33492,2021,Cynthia Gabriela Gonzalez Gamez,595,8. Monterrey,Partido Nueva Alianza Nuevo Leon
+DIP-00184-9d447b221da445bdb765199753923fc5,2021,Nellie Caceres Treviño,407,8. Monterrey,Partido Encuentro Solidario
+DIP-00185-146f67f257654803a6521c62ce48e9d8,2021,Irma Bertha Rodriguez Esparza,271,8. Monterrey,Redes Sociales Progresistas
+DIP-00186-9e7b7702b81540549c26842cb460fa53,2021,Jessica Aurorita Arredondo Jimenez,369,8. Monterrey,Fuerza por Mexico
+DIP-00187-f1a92cceb669462fb2b3bcd9e06e054c,2021,Ana Isabel Gonzalez Gonzalez,"31,898",8. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00188-fc8c3a5093e5465893a41b4730aa5821,2021,Aile Tamez De La Paz,"17,887",17. Gral. Escobedo,Partido Accion Nacional
+DIP-00189-441c0da74f9945ef91097bd2be4c0e58,2021,Norma Edith Benitez Rivera,"19,783",17. Gral. Escobedo,Movimiento Ciudadano
+DIP-00190-36c8687d24074d15b3c91a1ad1c131af,2021,Jose Angel Montes Blanco,522,17. Gral. Escobedo,Partido Encuentro Solidario
+DIP-00191-8f31a5a6a1d54de48c0847ae5c021be5,2021,Alejandro Gonzalez Garcia,"1,362",17. Gral. Escobedo,Redes Sociales Progresistas
+DIP-00192-2252fb28b01044029b8e7f09b1fe9da1,2021,Noralba Maria Hernandez Tovar,706,17. Gral. Escobedo,Fuerza por Mexico
+DIP-00193-be04013d3d8c446b8cade30ff99a84d0,2021,Alicia Maribel Villalon Gonzalez,"10,898",17. Gral. Escobedo,Va Fuerte por Nuevo Leon
+DIP-00194-772ae5e8ba7c47829bbc30984697c766,2021,Anylu Bendicion Hernandez Sepulveda,"20,558",17. Gral. Escobedo,Juntos Haremos Historia en Nuevo Leon
+DIP-00195-c2050f994c7647919239d849e24dd29c,2021,Gema Villalobos Ante,"5,499",1. Monterrey,Partido Accion Nacional
+DIP-00196-2e60ef98be7f4ff69e4ad476a369a6fb,2021,Galileo Hernandez Reyes,"11,406",1. Monterrey,Movimiento Ciudadano
+DIP-00197-172695731469474d8d9c1cfa054e1689,2021,Rolando Arturo Mezquitic Navarro,303,1. Monterrey,Partido Encuentro Solidario
+DIP-00198-14bd7e41385b45c1b812c358794e53ea,2021,Elmer Eduardo Rivera Estrada,577,1. Monterrey,Redes Sociales Progresistas
+DIP-00199-da9fbcdb1d5740c3be5d25f1d756ea62,2021,Adriana Amador Arteaga,326,1. Monterrey,Fuerza por Mexico
+DIP-00200-11320fb60e2d40a7a6da5392c1490578,2021,Ivonne Liliana Alvarez Garcia,"28,319",1. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00201-abdd7f405a744c58bc89f752ec9f6f31,2021,Olga Lidia Herrera Natividad,"9,180",1. Monterrey,Juntos Haremos Historia en Nuevo Leon
+DIP-00202-c0c1b384dbf74bd19c11a390376b5aec,2021,Fernando Adame Doria,"27,968",24. Linares,Partido Accion Nacional
+DIP-00203-bdad5cd546d74c7aa68335254c327811,2021,Yanet Araceli Maldonado Isassi,"11,074",24. Linares,Movimiento Ciudadano
+DIP-00204-2a8925ab9122428085c89132b93ec47a,2021,Guadalupe Calderon Rodriguez,558,24. Linares,Partido Encuentro Solidario
+DIP-00205-ef92bc792c0142b7be2432f948ca1b4b,2021,CLAUDIA AZUCENA ESPINOSA LOPEZ,"1,099",24. Linares,Redes Sociales Progresistas
+DIP-00206-a284e521055c4137a27f6a5467384e14,2021,Rocio Mora Garcia,616,24. Linares,Fuerza por Mexico
+DIP-00207-82b787f48b30468eaedeae5c1f257ef6,2021,Jesus Homero Aguilar Hernandez,"29,913",24. Linares,Va Fuerte por Nuevo Leon
+DIP-00208-2b0a5260507e4a239141bdc5504990fd,2021,RUBEN GONZALEZ CABRIELES,"20,186",24. Linares,Juntos Haremos Historia en Nuevo Leon
+DIP-00209-c956744d0a0540cfb023fdbb7502cff0,2021,Claudia Gabriela Caballero Chavez,"21,015",6. Monterrey,Partido Accion Nacional
+DIP-00210-bed9f6fe2f8c4c89be0ebfa4127c7564,2021,Luis Alberto Cruz Flores,"1,044",6. Monterrey,Partido Verde Ecologista de Mexico
+DIP-00211-fc4a678de52546109bba880e835ed82f,2021,Andrea Franchesca Villarreal Lopez,680,6. Monterrey,Partido del Trabajo
+DIP-00212-769d71df186b47b29b73b7dff5135f87,2021,Sandra Elizabeth Pamanes Ortiz,"21,594",6. Monterrey,Movimiento Ciudadano
+DIP-00213-08822976a00b4314a0f5a32d9e81b0c1,2021,Marco Antonio Martinez Diaz,"11,371",6. Monterrey,MORENA
+DIP-00214-e31747ed46234180a20f727851475768,2021,Bertha Martinez Morin,614,6. Monterrey,Partido Nueva Alianza Nuevo Leon
+DIP-00215-9516c5408cd84306b8a5704d2b30ec11,2021,MARIANA NATALHY ALVAREZ RANGEL,431,6. Monterrey,Partido Encuentro Solidario
+DIP-00216-1e9e0bc0e57d4f16bc5bca4b2c461aa6,2021,Agustin Serna Cisneros,636,6. Monterrey,Redes Sociales Progresistas
+DIP-00217-883410edd0874122b9a0c13eb713644b,2021,Gamaliel Garza Hernandez,568,6. Monterrey,Fuerza por Mexico
+DIP-00218-a9961f7346df4376ae45757b1677671a,2021,Alhinna Berenice Vargas Garcia,"28,433",6. Monterrey,Va Fuerte por Nuevo Leon
+DIP-00219-19d9f3533c71430fba5bd128ed42e9df,2021,Roberto Alviso Marqués,"2,755",6. Monterrey,CANDIDATURA INDEPENDIENTE 1

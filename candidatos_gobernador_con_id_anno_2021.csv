@@ -1,0 +1,183 @@
+candidato_id,anno,nombre_candidato,numero_de_votos,nombre_distrito,nombre_normalizado,PARTIDO_CI
+GOB-00001-e96b094b513249f2a7317f41d8c73ce3,2021,Fernando Alejandro Larrazabal Breton,"25,135",21. Sabinas Hidalgo,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00002-c1f96bc9dc4d40d7a8870487b1d66c1e,2021,Samuel Alejandro García Sepúlveda,"32,501",21. Sabinas Hidalgo,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00003-90e2145af2bc47769bccc30a717824ed,2021,Carolina Maria Garza Guerra,427,21. Sabinas Hidalgo,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00004-b2057c0014844626bcbef2964b9a97cd,2021,Virginia Daney Siller Tristan,"1,044",21. Sabinas Hidalgo,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00005-1848c0ef9248445184fbed130dec946d,2021,Emilio Jacques Rivera,895,21. Sabinas Hidalgo,emilio jacques rivera,Fuerza por Mexico
+GOB-00006-0742e34f0c994b7590716106204d377e,2021,Adrian Emilio De La Garza Santos,"18,793",21. Sabinas Hidalgo,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00007-b217f393c62740d683fd882037291fa8,2021,Clara Luz Flores Carrales,"16,967",21. Sabinas Hidalgo,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00008-e3f830e7edfa4ae8b74e7fb7acd666a9,2021,Fernando Alejandro Larrazabal Breton,"14,339",18. San Pedro Garza García,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00009-62b9fff43d0a4042bdc9763a9fe55a35,2021,Samuel Alejandro García Sepúlveda,"47,640",18. San Pedro Garza García,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00010-d11f70f505794a34bf60e6902ed0ae64,2021,Carolina Maria Garza Guerra,226,18. San Pedro Garza García,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00011-8276667232154bf0a38201bc31fd4a5b,2021,Virginia Daney Siller Tristan,166,18. San Pedro Garza García,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00012-0fe3bfd60e65480d8fee3a9ab90650ce,2021,Emilio Jacques Rivera,521,18. San Pedro Garza García,emilio jacques rivera,Fuerza por Mexico
+GOB-00013-5e3f64ad9bf841a18976750b25fb1e0a,2021,Adrian Emilio De La Garza Santos,"27,836",18. San Pedro Garza García,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00014-dc0755a855b34f90af4b705e89e1bd54,2021,Clara Luz Flores Carrales,"6,979",18. San Pedro Garza García,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00015-8ba0c8090c4f41b0bef3f1f2a59a297b,2021,Fernando Alejandro Larrazabal Breton,"18,414",26. Santiago,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00016-9fa41993887146ce92d09736224bb434,2021,Samuel Alejandro García Sepúlveda,"19,029",26. Santiago,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00017-801e9fb90ec34d26906b2e7e1c043deb,2021,Carolina Maria Garza Guerra,165,26. Santiago,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00018-cc202ee072c34921a096d431b09181c2,2021,Virginia Daney Siller Tristan,419,26. Santiago,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00019-1f7cd21636ee44749233f419d09757d0,2021,Emilio Jacques Rivera,287,26. Santiago,emilio jacques rivera,Fuerza por Mexico
+GOB-00020-6947a48f17bb424b99fd49d1255b2199,2021,Adrian Emilio De La Garza Santos,"43,722",26. Santiago,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00021-8f9acddda5f94820b0e6295971ada3b6,2021,Clara Luz Flores Carrales,"19,944",26. Santiago,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00022-8f959f98f8944bb18d8285b0386359a0,2021,Fernando Alejandro Larrazabal Breton,"13,114",17. Gral. Escobedo,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00023-ceea97af24f247c7a10ea9ecc0496109,2021,Samuel Alejandro García Sepúlveda,"29,716",17. Gral. Escobedo,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00024-8ac8e87e303048b4a790bc29402b5556,2021,Carolina Maria Garza Guerra,259,17. Gral. Escobedo,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00025-f9942730f1504f7e82e68183c54f8192,2021,Virginia Daney Siller Tristan,243,17. Gral. Escobedo,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00026-441faf4fc735424f9cc589ad02d7e53c,2021,Emilio Jacques Rivera,570,17. Gral. Escobedo,emilio jacques rivera,Fuerza por Mexico
+GOB-00027-1956bcdf3a2c42dea519a59a8d87170a,2021,Adrian Emilio De La Garza Santos,"11,765",17. Gral. Escobedo,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00028-5af5671869cc4738bdfa4840a7b027c6,2021,Clara Luz Flores Carrales,"16,609",17. Gral. Escobedo,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00029-31b1ae0db37f4341845125aa99cfa195,2021,Fernando Alejandro Larrazabal Breton,"23,584",9. San Nicolás de los Garza,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00030-228047e5b8054987b6c4b9ec1d4f6f3b,2021,Samuel Alejandro García Sepúlveda,"29,933",9. San Nicolás de los Garza,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00031-1ef5f71a0a6a4dda8d8d6878e4310ec6,2021,Carolina Maria Garza Guerra,194,9. San Nicolás de los Garza,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00032-cf04db60d9cb478b90bca318b851352e,2021,Virginia Daney Siller Tristan,139,9. San Nicolás de los Garza,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00033-2d5b045ba07e448e8393b16538bf01f4,2021,Emilio Jacques Rivera,453,9. San Nicolás de los Garza,emilio jacques rivera,Fuerza por Mexico
+GOB-00034-386057a4489243a3b0c8ac4d3b30cb25,2021,Adrian Emilio De La Garza Santos,"12,880",9. San Nicolás de los Garza,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00035-677b3a24c7fc43d2b8c0981331b8f520,2021,Clara Luz Flores Carrales,"10,600",9. San Nicolás de los Garza,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00036-158a669f141647bca08cf101e0d6990f,2021,Fernando Alejandro Larrazabal Breton,"13,728",16. Apodaca,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00037-b327b508f1c34f5f810c6409754b1765,2021,Samuel Alejandro García Sepúlveda,"28,487",16. Apodaca,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00038-73370ded722043f4a928cc850b6aa44f,2021,Carolina Maria Garza Guerra,245,16. Apodaca,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00039-63236fa8223848a4924f16b08264c02c,2021,Virginia Daney Siller Tristan,185,16. Apodaca,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00040-02064ca257df4c649710ae02deebc8f9,2021,Emilio Jacques Rivera,488,16. Apodaca,emilio jacques rivera,Fuerza por Mexico
+GOB-00041-d200ad833ef3432280c71143b521d882,2021,Adrian Emilio De La Garza Santos,"17,796",16. Apodaca,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00042-2184a251a9054ee8b2efed89007efa85,2021,Clara Luz Flores Carrales,"9,102",16. Apodaca,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00043-f356197447f14622aec2291180eedfc0,2021,Fernando Alejandro Larrazabal Breton,"11,484",7. Apodaca,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00044-ac7aaef0e0bf45c9b79fa5d760e45bbc,2021,Samuel Alejandro García Sepúlveda,"26,161",7. Apodaca,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00045-7f0b1878ed0545fcbabbffaf65d1c5e7,2021,Carolina Maria Garza Guerra,269,7. Apodaca,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00046-352c1fb9e8de4e2587731f431e320e84,2021,Virginia Daney Siller Tristan,187,7. Apodaca,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00047-10633498b96748edb59f59303c3f3507,2021,Emilio Jacques Rivera,491,7. Apodaca,emilio jacques rivera,Fuerza por Mexico
+GOB-00048-e92ff6ed5eb34e04b4cdb08a4ee71931,2021,Adrian Emilio De La Garza Santos,"19,621",7. Apodaca,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00049-8519882903c34cd99ddc7516992f2cfe,2021,Clara Luz Flores Carrales,"9,158",7. Apodaca,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00050-d7250fa5422344cb88dd5e9d2fec1169,2021,Fernando Alejandro Larrazabal Breton,"9,067",2. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00051-cfd252289a2e442a8b801c83888b9958,2021,Samuel Alejandro García Sepúlveda,"23,056",2. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00052-656ea7bd77e14ca884442d13b11d2062,2021,Carolina Maria Garza Guerra,194,2. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00053-3a5b910c7861445cbd7094560141fb3d,2021,Virginia Daney Siller Tristan,111,2. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00054-7b295b2a87ce48ab9b052d8c5f952b02,2021,Emilio Jacques Rivera,456,2. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00055-fe7a3fc6999148398c0a6948a85cf02d,2021,Adrian Emilio De La Garza Santos,"28,329",2. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00056-b5af9649052e410783ee7aabb73a6a72,2021,Clara Luz Flores Carrales,"9,749",2. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00057-1d3c5afcb5ab4986a2319baf617d6ed6,2021,Fernando Alejandro Larrazabal Breton,"15,771",5. Apodaca,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00058-380ff7270fd34a7d8d12474a5bd0a930,2021,Samuel Alejandro García Sepúlveda,"33,951",5. Apodaca,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00059-ebdba0cd2aee41b5adab74cb4c828d15,2021,Carolina Maria Garza Guerra,372,5. Apodaca,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00060-a80db0fe35b1487fba24dd4271b34ed6,2021,Virginia Daney Siller Tristan,234,5. Apodaca,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00061-bb6d3c1f59f3477b930f975189f723cc,2021,Emilio Jacques Rivera,583,5. Apodaca,emilio jacques rivera,Fuerza por Mexico
+GOB-00062-1430cac5ceb6461ab6508fc2ed7447b6,2021,Adrian Emilio De La Garza Santos,"23,706",5. Apodaca,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00063-44e3e1354f27480883d67f0e0fea6fdd,2021,Clara Luz Flores Carrales,"11,364",5. Apodaca,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00064-c1b7cb2680444f93bb7d5b8798e9c22f,2021,Fernando Alejandro Larrazabal Breton,"18,750",24. Linares,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00065-651836ddfcfd460c9ff47c4b4eadcc8c,2021,Samuel Alejandro García Sepúlveda,"24,033",24. Linares,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00066-f2a2498eb3a44092be1dc8de3b6e6b6a,2021,Carolina Maria Garza Guerra,291,24. Linares,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00067-e9151551db5a4a4388e57149f6c5b7c4,2021,Virginia Daney Siller Tristan,549,24. Linares,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00068-ecc31c4c92a7460ba4aa04c05dd5328b,2021,Emilio Jacques Rivera,436,24. Linares,emilio jacques rivera,Fuerza por Mexico
+GOB-00069-3f8e5326c02446858a9490c2dcbf2f19,2021,Adrian Emilio De La Garza Santos,"29,179",24. Linares,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00070-4621c65367fb42c9b53acfba29c16af0,2021,Clara Luz Flores Carrales,"16,751",24. Linares,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00071-3594a289000a4acdaab066cc78b08c6b,2021,Fernando Alejandro Larrazabal Breton,"10,297",25. Gral. Escobedo,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00072-038136c76b1842f6921b3a1ec3edbd71,2021,Samuel Alejandro García Sepúlveda,"24,252",25. Gral. Escobedo,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00073-95ac8cb475a34c84a3970eedf71aec97,2021,Carolina Maria Garza Guerra,209,25. Gral. Escobedo,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00074-9728682030304c489fdfc940fc4bdd0e,2021,Virginia Daney Siller Tristan,164,25. Gral. Escobedo,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00075-c87584c0d2444bcbaf05c3ca4873c337,2021,Emilio Jacques Rivera,441,25. Gral. Escobedo,emilio jacques rivera,Fuerza por Mexico
+GOB-00076-a843d4c9b84d4ac69509b45d5fcebd0b,2021,Adrian Emilio De La Garza Santos,"14,404",25. Gral. Escobedo,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00077-1f1dbe8566e64a4fb098e3d69ed36080,2021,Clara Luz Flores Carrales,"13,005",25. Gral. Escobedo,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00078-28e4bc34eaf74d50be8dac5bd79a66d1,2021,Fernando Alejandro Larrazabal Breton,"18,226",20. García,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00079-3a0d30b6ed0942fabda5c69cbf9af19f,2021,Samuel Alejandro García Sepúlveda,"38,030",20. García,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00080-a307b54029324b4f9f627b03e9d96aac,2021,Carolina Maria Garza Guerra,811,20. García,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00081-50e0584e92fd4762a3b6be99599eb4f0,2021,Virginia Daney Siller Tristan,459,20. García,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00082-8e78e702c1eb4f08a7eaf9fbf559d2ae,2021,Emilio Jacques Rivera,971,20. García,emilio jacques rivera,Fuerza por Mexico
+GOB-00083-af4aeb70a3fa44f6b17e66d3cc5cec21,2021,Adrian Emilio De La Garza Santos,"19,965",20. García,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00084-c16c9d2cab2e4c82b60fb2ca3885360a,2021,Clara Luz Flores Carrales,"18,371",20. García,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00085-f4200a51e98e4e5d9d4b7eac06a4c83f,2021,Fernando Alejandro Larrazabal Breton,"25,194",10. San Nicolás de los Garza,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00086-4f9574f8137c4b82a5e3b071695b8f62,2021,Samuel Alejandro García Sepúlveda,"29,605",10. San Nicolás de los Garza,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00087-ae7b4afc0528430d9164f2b62af7325e,2021,Carolina Maria Garza Guerra,198,10. San Nicolás de los Garza,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00088-dbb76f122a7d4fefaa14920e5d3727f3,2021,Virginia Daney Siller Tristan,174,10. San Nicolás de los Garza,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00089-804c1e457457400cbaacd339b8d08ba1,2021,Emilio Jacques Rivera,586,10. San Nicolás de los Garza,emilio jacques rivera,Fuerza por Mexico
+GOB-00090-63b63caec7f04b7288d1c7c2b9cbb374,2021,Adrian Emilio De La Garza Santos,"13,647",10. San Nicolás de los Garza,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00091-4f3457e75a5d4cd3b5ac70b505aae7f8,2021,Clara Luz Flores Carrales,"10,455",10. San Nicolás de los Garza,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00092-5eec46bae9df4f7fbf637e506d321013,2021,Fernando Alejandro Larrazabal Breton,"12,003",4. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00093-b480b163bdd044f69ef68bf71f1f534c,2021,Samuel Alejandro García Sepúlveda,"37,330",4. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00094-79754f51c8554e7b94c3af7e8b7fffa5,2021,Carolina Maria Garza Guerra,231,4. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00095-6fbebd69099a4eb1b5e5569679e05721,2021,Virginia Daney Siller Tristan,121,4. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00096-b4a35ef0ef384552bb6dada36f0f13fa,2021,Emilio Jacques Rivera,500,4. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00097-f40f1f5fe28d4cc994ad6c56efa45aa2,2021,Adrian Emilio De La Garza Santos,"37,342",4. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00098-af4d2c3565e447f398704b3ef3dcfc99,2021,Clara Luz Flores Carrales,"8,185",4. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00099-210ed3573efe4c54a1b92841b2eb6846,2021,Fernando Alejandro Larrazabal Breton,"13,230",3. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00100-70443645cf3149f9a31186305e451b4c,2021,Samuel Alejandro García Sepúlveda,"37,655",3. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00101-f5f70ab464624197abb363ff660edbd6,2021,Carolina Maria Garza Guerra,184,3. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00102-6a7b5032f7dd493fab3095f00ae17ad8,2021,Virginia Daney Siller Tristan,127,3. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00103-78e649235b8e4fb582531924cc74928d,2021,Emilio Jacques Rivera,459,3. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00104-3a4aea4e547b4a5d81b8ea9c74a1fecc,2021,Adrian Emilio De La Garza Santos,"34,828",3. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00105-112462bcfed74e438c31f5f45da76033,2021,Clara Luz Flores Carrales,"8,810",3. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00106-f6186a80951c458aab23733140b787c0,2021,Fernando Alejandro Larrazabal Breton,"6,745",1. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00107-4c0f46de407e413fb5b55cd90b114536,2021,Samuel Alejandro García Sepúlveda,"17,687",1. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00108-929dffca6a26462db34fc8fc350c6500,2021,Carolina Maria Garza Guerra,168,1. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00109-4ea64331ca6448f8b188e708472f39e1,2021,Virginia Daney Siller Tristan,115,1. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00110-79b21872a04a4184bbb925bcb1af8828,2021,Emilio Jacques Rivera,283,1. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00111-7b2bdf10f81548329373e83ea0a7933d,2021,Adrian Emilio De La Garza Santos,"24,763",1. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00112-f0fcb86e28f5424a93ef7768bc91821e,2021,Clara Luz Flores Carrales,"6,336",1. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00113-36861636e78d4bc2b3b80735db45aa26,2021,Fernando Alejandro Larrazabal Breton,"17,590",19. Santa Catarina,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00114-a46e396e9f394e9499fc85e3648bfad4,2021,Samuel Alejandro García Sepúlveda,"34,984",19. Santa Catarina,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00115-af2f9a11952c4c9fb6af9be331c7ce45,2021,Carolina Maria Garza Guerra,246,19. Santa Catarina,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00116-c719dbc64dda4af4b89e09b8148f9dbc,2021,Virginia Daney Siller Tristan,363,19. Santa Catarina,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00117-2a4ab9a2fec84838b3f0888ad44ba366,2021,Emilio Jacques Rivera,720,19. Santa Catarina,emilio jacques rivera,Fuerza por Mexico
+GOB-00118-ed983f9c8f8a4a6eaaa2174c243acb1f,2021,Adrian Emilio De La Garza Santos,"14,659",19. Santa Catarina,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00119-80b5b96ff1734458a33cae9e942591d4,2021,Clara Luz Flores Carrales,"10,247",19. Santa Catarina,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00120-baa7abddbab64f71b3a512f3b94d8acc,2021,Fernando Alejandro Larrazabal Breton,"15,953",15. Guadalupe,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00121-f015ec2e768b455db8007f7065d64611,2021,Samuel Alejandro García Sepúlveda,"30,842",15. Guadalupe,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00122-98b2dbf07cda48f59a8279ad503705bd,2021,Carolina Maria Garza Guerra,334,15. Guadalupe,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00123-cb88f61877af492e9811b0cbfdf39104,2021,Virginia Daney Siller Tristan,214,15. Guadalupe,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00124-06c6bb75ad684399a1be376c414d3b44,2021,Emilio Jacques Rivera,560,15. Guadalupe,emilio jacques rivera,Fuerza por Mexico
+GOB-00125-191f35a7c2cd4cd6a78948e432611f6c,2021,Adrian Emilio De La Garza Santos,"18,557",15. Guadalupe,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00126-5f40d33497894972af96f25721daf8d1,2021,Clara Luz Flores Carrales,"12,004",15. Guadalupe,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00127-2749c2702dff4b7e95b1905f2dd9272b,2021,Fernando Alejandro Larrazabal Breton,"20,846",23. Juárez,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00128-e2face87ddd9411880f8378b41081ebb,2021,Samuel Alejandro García Sepúlveda,"29,241",23. Juárez,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00129-868691875f6b4c0bbd3aa869bac7226e,2021,Carolina Maria Garza Guerra,378,23. Juárez,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00130-7066a6f1effd431394a687411620a79e,2021,Virginia Daney Siller Tristan,445,23. Juárez,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00131-33a00bbf98dc4cbebd73aebe5c7905f3,2021,Emilio Jacques Rivera,979,23. Juárez,emilio jacques rivera,Fuerza por Mexico
+GOB-00132-9014102978114c06925d370d8f6f6ccd,2021,Adrian Emilio De La Garza Santos,"23,618",23. Juárez,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00133-b179dfe4a114402899dfe8b9a6a20008,2021,Clara Luz Flores Carrales,"19,847",23. Juárez,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00134-46705cc6b9e44b5c92aa27e36bc16ca0,2021,Fernando Alejandro Larrazabal Breton,"12,563",12. Guadalupe,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00135-639a484269774b0b91bda0c705e68674,2021,Samuel Alejandro García Sepúlveda,"29,877",12. Guadalupe,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00136-dec44af1e8a1400f82587951261a5d70,2021,Carolina Maria Garza Guerra,282,12. Guadalupe,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00137-4719179cff5c4192ba360957af44e23f,2021,Virginia Daney Siller Tristan,192,12. Guadalupe,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00138-95a132697f364e46ae039b80ce5a35cb,2021,Emilio Jacques Rivera,506,12. Guadalupe,emilio jacques rivera,Fuerza por Mexico
+GOB-00139-912dd1bc8d114c4aae675fa53773722f,2021,Adrian Emilio De La Garza Santos,"20,954",12. Guadalupe,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00140-cf42e2f3a7e140a3b2e85d7892471d6e,2021,Clara Luz Flores Carrales,"10,052",12. Guadalupe,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00141-6348452afd2d424ba7d92d4ca824a576,2021,Fernando Alejandro Larrazabal Breton,"13,992",6. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00142-82fb63d6cd164ef09e1c971d0a06b662,2021,Samuel Alejandro García Sepúlveda,"33,941",6. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00143-00cfcb6d50b74c0b8f67bf1cc3d23587,2021,Carolina Maria Garza Guerra,198,6. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00144-8b3c2ad78c6c484b9882c62fa51a0d94,2021,Virginia Daney Siller Tristan,202,6. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00145-850f76b2ca214b6690459e4f30b2b2c3,2021,Emilio Jacques Rivera,516,6. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00146-77722093976f446ab650d780fa53f15e,2021,Adrian Emilio De La Garza Santos,"30,475",6. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00147-7ac752cc2c904080aa54ebc366706d38,2021,Clara Luz Flores Carrales,"10,662",6. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00148-8620087e379c451ea8b1786b65c43a85,2021,Fernando Alejandro Larrazabal Breton,"11,439",13. Guadalupe,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00149-2f400c5e711a4365903ed7caeb8890d3,2021,Samuel Alejandro García Sepúlveda,"26,636",13. Guadalupe,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00150-6240948130384eed83c1540fa761da85,2021,Carolina Maria Garza Guerra,325,13. Guadalupe,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00151-536c14f572a14314b10024322be841c3,2021,Virginia Daney Siller Tristan,181,13. Guadalupe,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00152-828626e196684b658c9aeb1b029ca48a,2021,Emilio Jacques Rivera,481,13. Guadalupe,emilio jacques rivera,Fuerza por Mexico
+GOB-00153-7a4ca42391fb477e8664518cd4a6a212,2021,Adrian Emilio De La Garza Santos,"16,759",13. Guadalupe,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00154-ac55733d62eb4ca5b1584abd4d1a773c,2021,Clara Luz Flores Carrales,"10,076",13. Guadalupe,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00155-b4ce707d7f7c4044978a682b0f26b56f,2021,Fernando Alejandro Larrazabal Breton,"18,059",11. San Nicolás de los Garza,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00156-99e9aada9a73492293a567cbcdae84fe,2021,Samuel Alejandro García Sepúlveda,"28,485",11. San Nicolás de los Garza,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00157-16b33f856f8c4f9383897ac58cd53a56,2021,Carolina Maria Garza Guerra,198,11. San Nicolás de los Garza,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00158-50b44950f1194e099a1819cbc3561ed9,2021,Virginia Daney Siller Tristan,142,11. San Nicolás de los Garza,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00159-c73eb9c09b4f4c78896d138ce1556401,2021,Emilio Jacques Rivera,430,11. San Nicolás de los Garza,emilio jacques rivera,Fuerza por Mexico
+GOB-00160-c8073c6073174c48b0c134266c965564,2021,Adrian Emilio De La Garza Santos,"23,091",11. San Nicolás de los Garza,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00161-de76d80135584e019db470ea251fc048,2021,Clara Luz Flores Carrales,"10,070",11. San Nicolás de los Garza,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00162-0f47a71040d64336abd0a3b150b14904,2021,Fernando Alejandro Larrazabal Breton,"12,871",14. Guadalupe,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00163-4caf64444a574c3183a375a4c816b788,2021,Samuel Alejandro García Sepúlveda,"26,435",14. Guadalupe,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00164-a1bd98494f3747eb8594cab930b68b8d,2021,Carolina Maria Garza Guerra,265,14. Guadalupe,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00165-9d6802328bb94181b672bff5ab39f31c,2021,Virginia Daney Siller Tristan,181,14. Guadalupe,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00166-bd6516afbd4d4000b949d4e200299579,2021,Emilio Jacques Rivera,461,14. Guadalupe,emilio jacques rivera,Fuerza por Mexico
+GOB-00167-ee1a640a16b64a82b85933ca1606d0c6,2021,Adrian Emilio De La Garza Santos,"15,944",14. Guadalupe,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00168-b7fa28e2e54b42f7ab9bfb1403d339cf,2021,Clara Luz Flores Carrales,"9,464",14. Guadalupe,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00169-7b1e3021509e4aadb009088a084f770d,2021,Fernando Alejandro Larrazabal Breton,"10,030",8. Monterrey,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00170-f2257a5dde2d432891ce403d67304e21,2021,Samuel Alejandro García Sepúlveda,"39,790",8. Monterrey,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00171-fa6563b7acde4fa3b9485747a071b5e5,2021,Carolina Maria Garza Guerra,134,8. Monterrey,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00172-b5d2897cf88343efaeec823febdbcd7d,2021,Virginia Daney Siller Tristan,99,8. Monterrey,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00173-965eab39459a47beaae5e5770496f017,2021,Emilio Jacques Rivera,326,8. Monterrey,emilio jacques rivera,Fuerza por Mexico
+GOB-00174-bda1fb928fd841aeb5a1ca6393cd6f1b,2021,Adrian Emilio De La Garza Santos,"35,079",8. Monterrey,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00175-12ae4b974831415fad01710aafbe8a92,2021,Clara Luz Flores Carrales,"5,988",8. Monterrey,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
+GOB-00176-cfe9761e85334cf0a0343e5ee47fcb8b,2021,Fernando Alejandro Larrazabal Breton,"10,477",22. Juárez,fernando alejandro larrazabal breton,Partido Accion Nacional
+GOB-00177-ee329ccdc732419b9e8845e87d56022f,2021,Samuel Alejandro García Sepúlveda,"27,511",22. Juárez,samuel alejandro garcía sepúlveda,Movimiento Ciudadano
+GOB-00178-e671cf0790bc4209944cba49ede33541,2021,Carolina Maria Garza Guerra,239,22. Juárez,carolina maria garza guerra,Partido Encuentro Solidario
+GOB-00179-0315e51f3cf64fc88c7b6daff6adfb75,2021,Virginia Daney Siller Tristan,173,22. Juárez,virginia daney siller tristan,Redes Sociales Progresistas
+GOB-00180-745a82993ad245b39a5fd3e15e4410e9,2021,Emilio Jacques Rivera,464,22. Juárez,emilio jacques rivera,Fuerza por Mexico
+GOB-00181-f1ea2cccf2814939a45e5589999dd99f,2021,Adrian Emilio De La Garza Santos,"20,340",22. Juárez,adrian emilio de la garza santos,Va Fuerte por Nuevo Leon
+GOB-00182-2b6ab5f0e7794e7d8c821100957b3dbc,2021,Clara Luz Flores Carrales,"9,793",22. Juárez,clara luz flores carrales,Juntos Haremos Historia en Nuevo Leon
