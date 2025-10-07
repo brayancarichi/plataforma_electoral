@@ -1,5 +1,4 @@
 numpy==1.24.4
-sqlite3
 plotly
 streamlit
 scipy==1.10.1 
@@ -9,3 +8,4 @@ plotly==5.15.0
 streamlit==1.28.0 
 distutils
 joblib==1.3.0
+
